@@ -2,45 +2,60 @@
 
 # Bozhidar Ivanov
 
-**Student Software Developer** · Full-stack Web Development · Security-Focused Applications
+**Ученик и софтуерен разработчик · Student Software Developer**
 
-Building useful, dependable software with an emphasis on clear design, reliable data, and transparent results.
+**Full-stack Development · Cybersecurity · Practical Software**
 
-[**Explore ScamLens BG**](https://scam-intel-web.onrender.com) · [**How it works**](https://scam-intel-web.onrender.com/how-it-works) · [**Evidence sources**](https://scam-intel-web.onrender.com/sources)
+[🇧🇬 Български](#-български) · [🇬🇧 English](#-english) · [ScamLens BG](https://scam-intel-web.onrender.com)
 
 </div>
 
 ---
 
-### Featured project — ScamLens BG
+## 🇧🇬 Български
 
-**ScamLens BG** is a Bulgarian domain-intelligence platform that helps people assess suspicious websites. It compares domains with published threat indicators and verified organization references, then explains its evidence-based, deterministic risk assessment.
+Здравейте! Аз съм **Божидар Иванов** — ученик и разработчик от България. Създавам уеб приложения, които решават реални проблеми, с внимание към **сигурността, надеждността, достъпността и потребителското изживяване**.
 
-| | |
-| --- | --- |
-| **Focus** | Phishing intelligence, explainable risk scoring, privacy-conscious design |
-| **Tech** | TypeScript, Next.js, React, PostgreSQL, Prisma |
-| **Engineering** | Automated testing, GitHub Actions CI, production deployment on Render |
-| **Status** | [Live application](https://scam-intel-web.onrender.com) · Source repository private |
+### Основен проект: ScamLens BG
 
-*ScamLens BG is an independent project. Its results are assessments, not definitive proof that a website is fraudulent or safe.*
+**ScamLens BG** е българска платформа за проверка на подозрителни домейни. Тя сравнява адреси с публикувани индикатори за заплахи и проверени организационни домейни, изчислява детерминистична оценка на риска и показва доказателствата и ограниченията на резултата.
 
-### What I work with
+- **Технологии:** TypeScript, Next.js, React, PostgreSQL, Prisma
+- **Разработка:** автоматизирани тестове, GitHub Actions, Render
+- **Достъп:** [Публично приложение](https://scam-intel-web.onrender.com) · изходният код засега е частен
 
-`TypeScript` · `JavaScript` · `Next.js` · `React` · `Node.js` · `PostgreSQL` · `Prisma` · `Git` · `GitHub Actions`
+*ScamLens BG е независим проект. Оценката не представлява окончателно доказателство, че даден сайт е измамен или безопасен.*
 
-### Beyond development
+### Лидерство и общност
 
-**Kings Volunteers — Bulgaria Country Leader**
-
-I help organize volunteer initiatives and collaborate with people across countries, combining communication, leadership, and digital tools.
-
-### Current interests
-
-- Full-stack applications and thoughtful user experience
-- Cybersecurity, phishing intelligence, and verifiable information
-- Testing, automation, and reliable production workflows
+**Kings Volunteers — Country Leader, Bulgaria.** Участвам в организирането на доброволчески инициативи и международни екипни дейности.
 
 ---
 
-<sub>Based in Bulgaria · Always learning, building, and improving.</sub>
+## 🇬🇧 English
+
+Hi! I'm **Bozhidar Ivanov**, a student software developer from Bulgaria. I build web applications that address practical problems, with a focus on **security, reliability, accessibility, and user experience**.
+
+### Featured project: ScamLens BG
+
+**ScamLens BG** is a Bulgarian domain-intelligence platform for assessing suspicious web addresses. It compares domains against published threat indicators and verified organization references, calculates a deterministic risk score, and explains the evidence and limitations behind each result.
+
+- **Stack:** TypeScript, Next.js, React, PostgreSQL, Prisma
+- **Engineering:** automated tests, GitHub Actions, Render deployment
+- **Explore:** [Live application](https://scam-intel-web.onrender.com) · source repository currently private
+
+*ScamLens BG is independent. A risk assessment is not definitive proof that a website is fraudulent or safe.*
+
+### Leadership and community
+
+**Kings Volunteers — Country Leader, Bulgaria.** I help organize volunteer initiatives and collaborate with international teams.
+
+---
+
+### Technologies & interests
+
+`TypeScript` · `JavaScript` · `Next.js` · `React` · `Node.js` · `PostgreSQL` · `Prisma` · `Git` · `GitHub Actions`
+
+**Interests:** full-stack systems, cybersecurity, phishing intelligence, secure engineering, automated testing, and thoughtful product design.
+
+<div align="center"><sub>Learning continuously. Building with purpose. · Уча постоянно. Създавам с цел.</sub></div>
